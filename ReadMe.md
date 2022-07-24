@@ -18,7 +18,7 @@ Pour installer les modules et les dependance du serveur
 Cette commande permet d'installer les modules et les dependances de la partie client
 
 
- #### `npm start `
+ #### `npm run dev-server `
  Pour démarrer l'application ceci demarre le serveur et aussi le client.
 
 
