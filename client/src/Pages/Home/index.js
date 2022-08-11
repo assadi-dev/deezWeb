@@ -140,7 +140,6 @@ const Home = () => {
                   title={playlist.title}
                   id={playlist.id}
                   className="apparition delay-animations"
-                  h
                 />
               </Rows>
             ))
