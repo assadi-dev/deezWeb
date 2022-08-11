@@ -139,7 +139,7 @@ const Home = () => {
                 <RowTracksSection
                   title={playlist.title}
                   id={playlist.id}
-                  className="apparition delay-animations"
+                  className="apparition delay-animationshh"
                 />
               </Rows>
             ))
